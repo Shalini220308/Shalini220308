@@ -2,7 +2,7 @@
 
 # Hi, I'm Shalini! 👋
 
-🎓 First-Year Engineering Student | Artificial Intelligence & Machine Learning (AIML)
+🎓 Second-Year Engineering Student | Artificial Intelligence & Machine Learning (AIML)
 
 I'm an enthusiastic engineering student passionate about technology, programming, and artificial intelligence. I'm continuously learning new skills and exploring how technology can solve real-world problems.
 
